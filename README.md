@@ -16,12 +16,12 @@ Works with Leaflet >= 1.2.0
 
 ### Bower
 ```
-bower install --save leaflet-ais-tracksymbol
+bower install --save leaflet-ais-tracksymbol-by-akora
 ```
 
 ### NPM
 ```
-npm install --save leaflet-ais-tracksymbol
+npm install --save leaflet-ais-tracksymbol-by-akora
 ``` 
 
 

@@ -1,13 +1,13 @@
 {
-  "name": "leaflet-ais-tracksymbol",
+  "name": "leaflet-ais-tracksymbol-by-akora",
   "version": "2.0.0",
-  "description": "leaflt-ais-tracksymbol",
+  "description": "leaflt-ais-tracksymbol-by-akora",
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PowerPan/leaflet-ais-tracksymbol.git"
+    "url": "git+https://github.com/forward-hkg/leaflet-ais-tracksymbol.git"
   },
   "keywords": [
     "marker"
@@ -15,9 +15,9 @@
   "author": "Johannes Rudolph <johannes.rudolph@gmx.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PowerPan/leaflet-ais-tracksymbol/issues"
+    "url": "https://github.com/forward-hkg/leaflet-ais-tracksymbol/issues"
   },
-  "homepage": "https://github.com/PowerPan/leaflet-ais-tracksymbol#readme",
+  "homepage": "https://github.com/forward-hkg/leaflet-ais-tracksymbol#readme",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-browserify": "5.0.0",
